@@ -1,0 +1,12 @@
+{
+  "name": "fontend",
+  "version": "1.0.0",
+  "description": "Frontend of Web App RequstForm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natchanon",
+  "license": "ISC" ,
+  "dependencies": {"express": "^4.19.2"}
+}

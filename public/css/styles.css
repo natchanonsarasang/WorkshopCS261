@@ -1,0 +1,44 @@
+body, html {
+    background-color: antiquewhite;
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+.logo{
+position: absolute;
+left: 88%;
+top: 1%;
+
+    
+}
+.middle{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(199, 177, 177);
+}
+.newcontain{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(162, 108, 26);
+    border-radius: 5px;
+}
+
+.login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 340px;
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 17px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.login-form {
+    margin-top: 10px;
+}
